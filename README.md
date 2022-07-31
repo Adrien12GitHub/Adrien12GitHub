@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Adrien12GitHub
+- 👀 I’m interested in front-end development and programming with C and Python
+- 🌱 I’m currently learning technical computer Science
+- 💞️ I’m looking to collaborate on new projects 
+- 📫 How to reach me https://www.linkedin.com/in/adrien-fepessi-062529223/
